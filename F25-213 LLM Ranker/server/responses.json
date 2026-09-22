@@ -1,0 +1,25 @@
+{
+  "query": "pakistan kab azad hua",
+  "results": [
+    {
+      "ai": "DeepSeek-V3.2",
+      "response": "query: pakistan kab azad hua answer: Pakistan 14 August 1947 ko azad hua."
+    },
+    {
+      "ai": "GPT-OSS-20B",
+      "response": "query: pakistan kab azad hua answer: Pakistan 14 अगस्त 1947 को स्वतंत्र हुआ।"
+    },
+    {
+      "ai": "Mistral-7B",
+      "response": "query: pakistan kab azad hua (when did Pakistan gain its freedom) answer: August 14, 1947"
+    },
+    {
+      "ai": "Llama-3.1-8B",
+      "response": "query: pakistan kab azad hua answer: 14 August 1947"
+    },
+    {
+      "ai": "Gemini",
+      "response": "Pakistan 14 August 1947 ko azad hua."
+    }
+  ]
+}
